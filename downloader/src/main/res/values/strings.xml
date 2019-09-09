@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Downloader</string>
+    <string name="download_complete" translatable="false">Download Complete</string>
+    <string name="download_canceled" translatable="false">Download Canceled</string>
+</resources>
